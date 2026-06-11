@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rudr Pratap Singh</h1>
-<h3 align="center">I am a undergrad Junior at NSUT, Delhi. Currently pursuing my Electronics and Communication Engineering course. Enthusiastic about Physics and Artificial Intelligence.</h3>
+<h1 align="center">Hi 👋, I'm Rudr (Rzzdr)</h1>
+<h3 align="center">I give life to machines, because low-key humans are overrated!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
